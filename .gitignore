@@ -1,0 +1,7 @@
+node_modules
+dist
+assets/fonts
+assets/css
+assets/js/vendor
+assets/scss/bootstrap
+package-lock.json

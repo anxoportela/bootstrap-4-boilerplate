@@ -1,0 +1,12 @@
+// Sobreescribir variables por defecto de bootstrap
+@import "bootstrap_variable_overrides";
+
+// Bootstrap
+@import "bootstrap/bootstrap";
+
+// Estilos propios
+@import "variables";
+@import "mixins";
+@import "general";
+@import "layout";
+@import "module";
